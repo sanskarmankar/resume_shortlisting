@@ -1,0 +1,27 @@
+to genrated test there are many websites one which i find is the best is 
+https://devskiller.com/coding-tests-skill/data-science/
+the test link can be sent via email present in the csv file which can also be 
+automated using python mentioned in(automated_email_writing.py) 
+this webisites have multiple category test for data scientist hiring you can talk to 
+them and negociate the priceing in according to your budget.
+If your company freqently deals with hiring process or your company's buisness model 
+is to select best candidates for hiring then i highly advice that add a test section
+to your companys website and hire a person for creating new questions or use you existing
+staff or hire me to create such test as it is very easy you just need to create a web page
+consisting question :-
+1. there should be login by email id as mentioed in resume
+2. 1st part should be mcq part where the skills are tested and set the timer such that 
+   the person should get the time pressure factor 
+3. create an AI(using 'OpenCV' and CNN for face , eye tracking , object detection , background noice detection 
+   if the user camera detects multiple face or the field of view goes beyound the screen frequently
+   or a smart phone is detetcetd or sound disturbance is heard he should get 3 warnings and after that 
+   if the machine still detects some malicious activity the test should terminate 
+   and should be awarded with 0 marks 
+4. there should be a coding test containig problem statement and test cases (chat gpt
+   cant pass test cases as per my experince as it has short memory) hosted 
+   using virtual machine the virtual machine will detect the keboard data as people 
+   might copy paste the code from chatgpt so the keyboard in virtal machine will detetct 
+   it the same AI mentioned above should be present for malisious activity detection
+5. the final score should be stored in the data base i personally prefere (sql) 
+   now you can create a passing criteria the candidats who will pass will get 
+   shortlisted for the interview process    

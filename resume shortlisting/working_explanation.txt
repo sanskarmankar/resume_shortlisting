@@ -1,0 +1,23 @@
+the model_testing.ipnb file contains the code in this code :
+1. i have transformend the "available for work" or not as we cant work with numeric 
+   values.
+2. i have calculated the skill match score on the basis of key word matching the 
+   key word matching is a task where we need to input the key skills you are
+   searching for in a candidate as some skill mentioned can be useless so you 
+   directly filter out the skills as per your requirnement i have entered the skills
+   as an example you can enter keys as per your requinement 
+3. the overall match percentage column is created where the overall key word match
+   is stored 
+4. now i have filterd the candidate with the match percentage less than 75% by 
+   deleting there data from the data set and then i have stored it in new csv file
+   "updated_file1.csv" 
+5. now from "updated_file1" i have filtered out candidates with a score of 0 from 
+   the mentioned skill "python skills,machine learning skills,nlp skills and deep 
+   learning skills" and stored the remaning into csv file "updated_file3.csv" 
+6. finally from "updated_file2" i have removed the persons who are not ready to 
+   start work immidietly and stored the remaning into new csv file"updated_file3"
+
+  so the best fit candidates are now stored in "updated_file3"
+
+  install the library if the code doent work (pip install scikit-learn)
+ 
